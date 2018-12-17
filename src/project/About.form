@@ -322,7 +322,7 @@
             <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="66" green="0" red="33" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="S.M.S is a simple UI that tracks and stores students data.&#xa;The admin, after successfully signing in, can add, update and delete data from the database.&#xa;This is a beta version.&#xa;Submitted by CESS sophomore students.&#xa;"/>
+            <Property name="text" type="java.lang.String" value="S.M.S is a simple UI that tracks and stores students data.&#xa;The admin, after successfully signing in, can add, update and delete data from the database.&#xa;This is a beta version.&#xa;Submitted by CESS junior students.&#xa;"/>
             <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
               <Color id="Default Cursor"/>
             </Property>

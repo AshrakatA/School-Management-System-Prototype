@@ -162,7 +162,7 @@ public class About extends javax.swing.JFrame {
         jTextPane1.setBorder(null);
         jTextPane1.setFont(new java.awt.Font("Calibri", 1, 18)); // NOI18N
         jTextPane1.setForeground(new java.awt.Color(51, 0, 102));
-        jTextPane1.setText("S.M.S is a simple UI that tracks and stores students data.\nThe admin, after successfully signing in, can add, update and delete data from the database.\nThis is a beta version.\nSubmitted by CESS sophomore students.\n");
+        jTextPane1.setText("S.M.S is a simple UI that tracks and stores students data.\nThe admin, after successfully signing in, can add, update and delete data from the database.\nThis is a beta version.\nSubmitted by CESS junior students.\n");
         jTextPane1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         jTextPane1.setSelectedTextColor(new java.awt.Color(51, 0, 102));
         jTextPane1.setSelectionColor(new java.awt.Color(255, 255, 255));
@@ -213,7 +213,7 @@ public class About extends javax.swing.JFrame {
 
     private void backMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_backMouseClicked
 this.dispose();
-new Home().setVisible(true);
+new ManageInfo().setVisible(true);
     }//GEN-LAST:event_backMouseClicked
 
 
